@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Arefin</h1>
 <h3 align="center">Proactive Computer Science student at Swinburne University of Technology, majoring in Software Development. Proficient in a variety of programming languages and web development tools. Demonstrated leadership skills through successful project management in both academic and professional settings. Passionate about leveraging technology to create innovative solutions. Actively seeking opportunities to apply my technical skills and contribute to a dynamic team in a practical environment.</h3>
 
-<img align = "right" alt="coding" width="400" src = "[https://www.freepik.com/free-vector/hand-coding-concept-illustration_21532466.htm#query=coding%20png&position=3&from_view=keyword&track=ais&uuid=6f1488bb-f6de-494d-80ca-84e985940dff](https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8173.jpg?w=900&t=st=1713414709~exp=1713415309~hmac=ed6667d8b1ae8e527f5c31c825c683ddafd4ddda76a51c081a0b0e0c8b5339dc)">
+<img align = "right" alt="coding" width="400" src = "https://blog.hubspot.com/hs-fs/hubfs/how-to-start-coding-1.jpg?width=1190&height=800&name=how-to-start-coding-1.jpg">
 - 🌱 I’m currently learning **React, ExtJS, C#, ASP.NET and Flutter**
 
 - 💬 Ask me about **VueJS -v3, C#, Algorithms**

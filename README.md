@@ -1,7 +1,7 @@
 <h1 align="center">Heyyoo, I'm Arefin👋</h1>
 <h3 align="center">Final-year Computer Science student at Swinburne University of Technology, specializing in Software Development. Passionate about building impactful software solutions through modern tech stacks. Open to new opportunities where I can apply my skills in web and mobile development.</h3>
 
-<img align = "right" alt="coding" width="400" src = "https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8173.jpg?w=900&t=st=1713414709~exp=1713415309~hmac=ed6667d8b1ae8e527f5c31c825c683ddafd4ddda76a51c081a0b0e0c8b5339dc">
+<img align = "right" alt="coding" width="400" src = "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 - 🌱 I’m currently expanding my knowledge in **React, C#, ASP.NET, and Node.js**
 
 - 💬 Ask me about **React.js, C#, and JavaScript**
@@ -27,9 +27,23 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arefin090&show_icons=true&locale=en&layout=compact" alt="arefin090" /></p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=arefin090&show_icons=true&locale=en&theme=dark" alt="arefin090" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arefin090&show_icons=true&locale=en&layout=compact&theme=dark" alt="arefin090" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arefin090&show_icons=true&locale=en" alt="arefin090" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arefin090&theme=dark" alt="arefin090" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arefin090&" alt="arefin090" /></p>
+

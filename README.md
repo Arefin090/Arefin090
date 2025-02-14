@@ -1,5 +1,5 @@
-<h1 align="center">Heyyoo, I'm Arefin👋</h1>
-<h3 align="center">Final-year Computer Science student at Swinburne University of Technology, specializing in Software Development. Passionate about building impactful software solutions through modern tech stacks. Open to new opportunities where I can apply my skills in web and mobile development.</h3>
+<h1 align="center">Heyyoo, I'm Finn👋</h1>
+<h3 align="center">A recent Computer Science graduate, passionate about technology that positively impacts society and the environment. </h3>
 
 <img align = "right" alt="coding" width="400" src = "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 - 🌱 I’m currently expanding my knowledge in **React, C#, ASP.NET, and Node.js**

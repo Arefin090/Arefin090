@@ -2,7 +2,7 @@
 <h3 align="center">A recent Computer Science graduate, working as a Site Reliability Engineer who is passionate about technology that positively impacts society and the environment. </h3>
 
 <img align = "right" alt="coding" width="400" src = "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
-- 🌱 I’m currently expanding my knowledge in ** Aws, anything cloud **
+- 🌱 I’m currently expanding my knowledge in **Aws, anything cloud**
 
 - 💬 Ask me about **React.js, C#, and JavaScript**
 

@@ -2,15 +2,16 @@
 <h3 align="center">A recent Computer Science graduate, working as a Site Reliability Engineer who is passionate about technology that positively impacts society and the environment. </h3>
 
 <img align = "right" alt="coding" width="400" src = "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
-- 🌱 I’m currently expanding my knowledge in **Aws, anything cloud**
+
+- 🌱 I’m currently expanding my knowledge in **Aws, anything cloud ** 🌧️
 
 - 💬 Ask me about **React.js, C#, and JavaScript**
 
 - 📫 How to reach me **arefin923@gmail.com**
 
-- ⚡ Fun fact: **I'm super productive because I'm super lazy. I like to finish things sooner so that I can sleep in peace**
+- ⚡ Fun fact: **I'm super productive because I'm super lazy. I like to finish things sooner so that I can sleep in peace😴**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Enough stalking, let's now connect!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/arefin-n-sojol-1a8688241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/arefin-n-sojol-1a8688241" height="30" width="40" /></a>
 </p>

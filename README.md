@@ -1,14 +1,14 @@
-<h1 align="center">Heyyoo, I'm Finn👋</h1>
-<h3 align="center">A recent Computer Science graduate, passionate about technology that positively impacts society and the environment. </h3>
+<h1 align="center">Heyyoo, I'm Finn🗣️</h1>
+<h3 align="center">A recent Computer Science graduate, working as a Site Reliability Engineer who is passionate about technology that positively impacts society and the environment. </h3>
 
 <img align = "right" alt="coding" width="400" src = "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
-- 🌱 I’m currently expanding my knowledge in **React, C#, ASP.NET, and Node.js**
+- 🌱 I’m currently expanding my knowledge in **AWS, anything cloud**
 
 - 💬 Ask me about **React.js, C#, and JavaScript**
 
 - 📫 How to reach me **arefin923@gmail.com**
 
-- ⚡ Fun fact: **I can debug code in my sleep... or at least I think I can!**
+- ⚡ Fun fact: **I'm super productive because I'm super lazy. I like to finish things sooner so that I can sleep in peace**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

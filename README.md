@@ -3,7 +3,7 @@
 
 <img align = "right" alt="coding" width="400" src = "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-- 🌱 I’m currently expanding my knowledge in **Aws, anything cloud ** 🌧️
+- 🌱 I’m currently expanding my knowledge in AWS, anything cloud🌧️
 
 - 💬 Ask me about **React.js, C#, and JavaScript**
 

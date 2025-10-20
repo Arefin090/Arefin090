@@ -45,11 +45,31 @@ graph LR
 ## 🌐 Let's Connect
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/arefin-n-sojol)
-[![Email](https://img.shields.io/badge/📧%20Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836)](mailto:arefin923@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white&labelColor=4285F4)](https://aarefin.com)
-
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://linkedin.com/in/arefin-n-sojol">
+        <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
+        <br><strong>LinkedIn</strong>
+        <br><sub>Professional Network</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="mailto:arefin923@gmail.com">
+        <img src="https://img.icons8.com/fluency/48/000000/gmail.png"/>
+        <br><strong>Email</strong>
+        <br><sub>Direct Contact</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://aarefin.com">
+        <img src="https://img.icons8.com/fluency/48/000000/domain.png"/>
+        <br><strong>Portfolio</strong>
+        <br><sub>My Work & Projects</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ## 🛠️ Tech Arsenal

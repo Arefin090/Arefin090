@@ -90,34 +90,18 @@ graph LR
 
 </div>
 
-## 📈 GitHub Analytics
+## 📊 Quick Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arefin090&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefin090&theme=transparent&hide_border=true&layout=compact&langs_count=8&title_color=58a6ff&text_color=c9d1d9" />
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arefin090&theme=github_dark)](https://github.com/arefin090)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arefin090&theme=github-compact&hide_border=true&area=true)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=arefin090&theme=discord&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 📊 Contribution Stats
-
-<div align="center">
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=arefin090&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+[![GitHub Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arefin090&theme=github_dark&utcOffset=8)](https://github.com/arefin090)
+[![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arefin090&theme=github_dark)](https://github.com/arefin090)
 
 </div>
 

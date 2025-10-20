@@ -125,19 +125,6 @@ graph LR
 
 <div align="center">
 
-### 🎵 Currently Vibing To
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/arefin090)
-
-### ☕ Support My Work
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/arefin090)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/arefin090)
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=footer" width="100%"/>
 
 **✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨**

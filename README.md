@@ -94,8 +94,8 @@ graph LR
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arefin090&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arefin090&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arefin090&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefin090&theme=transparent&hide_border=true&layout=compact&langs_count=8&title_color=58a6ff&text_color=c9d1d9" />
 
 </div>
 

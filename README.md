@@ -31,12 +31,39 @@ const finn = {
 ## 🎯 Current Focus
 
 ```mermaid
-graph LR
-    A[🧠 AI Research] --> B[🤖 MCP Development]
-    B --> C[⚡ System Optimization]
-    C --> D[🏗️ System Architecture]
-    D --> E[📐 System Design]
-    E --> F[🚀 Innovation]
+graph TB
+    subgraph "🤖 AI & Innovation"
+        A[AI Research]
+        B[MCP Development]
+        C[Prompt Engineering]
+    end
+    
+    subgraph "🏗️ Systems & Architecture"
+        D[System Architecture]
+        E[System Design]
+        F[Performance Optimization]
+    end
+    
+    subgraph "⚡ Infrastructure & SRE"
+        G[Scalability]
+        H[Reliability]
+        I[Monitoring]
+    end
+    
+    A --> D
+    B --> E
+    C --> A
+    D --> G
+    E --> H
+    F --> I
+    G --> H
+    H --> I
+    I --> F
+    
+    style A fill:#58A6FF,stroke:#1f2937,stroke-width:2px,color:#000
+    style B fill:#34D399,stroke:#1f2937,stroke-width:2px,color:#000
+    style D fill:#F59E0B,stroke:#1f2937,stroke-width:2px,color:#000
+    style E fill:#EF4444,stroke:#1f2937,stroke-width:2px,color:#000
 ```
 
 - 🔬 **Deep Diving Into**: AI technologies and MCP implementations

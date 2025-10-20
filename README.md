@@ -21,7 +21,7 @@
 const finn = {
     role: "Site Reliability Engineer",
     education: "Computer Science Graduate",
-    currentFocus: ["AI Technologies", "Model Context Protocols"],
+    currentFocus: ["AI Technologies", "Model Context Protocols", "System Architecture", "System Design"],
     interests: ["Badminton 🏸", "Prompt Engineering", "System Reliability"],
     askMeAbout: ["Early Career Guidance", "SRE Best Practices", "AI Integration"],
     funFact: "I believe technology should make life easier, not complicated!"
@@ -34,12 +34,16 @@ const finn = {
 graph LR
     A[🧠 AI Research] --> B[🤖 MCP Development]
     B --> C[⚡ System Optimization]
-    C --> D[🚀 Innovation]
+    C --> D[🏗️ System Architecture]
+    D --> E[📐 System Design]
+    E --> F[🚀 Innovation]
 ```
 
 - 🔬 **Deep Diving Into**: AI technologies and MCP implementations
+- 🏗️ **Architecting**: Scalable systems and robust infrastructure designs
+- 📐 **Designing**: Distributed systems with focus on reliability and performance
 - 🛠️ **Building**: Reliable systems that scale beautifully
-- 📚 **Learning**: Advanced prompt engineering techniques
+- 📚 **Learning**: Advanced prompt engineering and architectural patterns
 - 🎯 **Goal**: Making complex systems simple and reliable
 
 ## 🌐 Let's Connect

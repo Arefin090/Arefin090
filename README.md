@@ -45,31 +45,9 @@ graph LR
 ## 🌐 Let's Connect
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://linkedin.com/in/arefin-n-sojol">
-        <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
-        <br><strong>LinkedIn</strong>
-        <br><sub>Professional Network</sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="mailto:arefin923@gmail.com">
-        <img src="https://img.icons8.com/fluency/48/000000/gmail.png"/>
-        <br><strong>Email</strong>
-        <br><sub>Direct Contact</sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://aarefin.com">
-        <img src="https://img.icons8.com/fluency/48/000000/domain.png"/>
-        <br><strong>Portfolio</strong>
-        <br><sub>My Work & Projects</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+
+**[📧 arefin923@gmail.com](mailto:arefin923@gmail.com)** • **[💼 LinkedIn](https://linkedin.com/in/arefin-n-sojol)** • **[🌍 aarefin.com](https://aarefin.com)**
+
 </div>
 
 ## 🛠️ Tech Arsenal

@@ -39,11 +39,7 @@ graph LR
     E --> F[🚀 Innovation]
 ```
 
-- 🤖 Experimenting with AI and building MCPs
-- 🏗️ Working on system architecture and design patterns  
-- ⚡ Optimizing performance and reliability in production systems
-- 🧠 Learning prompt engineering and exploring new AI tools
-- 🎯 Trying to make complex stuff actually usable
+Currently experimenting with AI and MCPs, working on system architecture patterns, and trying to make complex systems actually reliable and usable.
 
 ## 🌐 Let's Connect
 

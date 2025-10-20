@@ -39,12 +39,11 @@ graph LR
     E --> F[🚀 Innovation]
 ```
 
-- 🔬 **Deep Diving Into**: AI technologies and MCP implementations
-- 🏗️ **Architecting**: Scalable systems and robust infrastructure designs
-- 📐 **Designing**: Distributed systems with focus on reliability and performance
-- 🛠️ **Building**: Reliable systems that scale beautifully
-- 📚 **Learning**: Advanced prompt engineering and architectural patterns
-- 🎯 **Goal**: Making complex systems simple and reliable
+- 🤖 Experimenting with AI and building MCPs
+- 🏗️ Working on system architecture and design patterns  
+- ⚡ Optimizing performance and reliability in production systems
+- 🧠 Learning prompt engineering and exploring new AI tools
+- 🎯 Trying to make complex stuff actually usable
 
 ## 🌐 Let's Connect
 
